@@ -1,5 +1,7 @@
 # Using IAS to Secure Python APIs on Cloud Foundry
 
+__NOTE: This repo is copied and adopted from the awesome work here: https://github.com/fyx99/btp-ias-python__
+
 In this blog post, I'll demonstrate how to use SAP Cloud Identity Services - Identity Authentication Service (IAS) to implement authentication for a Python API. This approach is particularly useful when building AI Agents or MCP servers that need protection from unauthorized access.
 
 ## Scenario
